@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
   spec.homepage = 'https://delightroom.com'
   spec.license = { :type => 'Custom' }
   spec.author = { 'Jun hyi' => 'finn@delightroom.com' }
-  spec.source = { :http => "https://github.com/delightroom/daro-m-core-ios-sdk/releases/download/#{spec.version}/DaroMCore.xcframework.zip" }
+  spec.source = { :http => "https://github.com/delightroom/daro-core-m-ios-sdk/releases/download/#{spec.version}/DaroMCore.xcframework.zip" }
   spec.swift_version = '5.7'
   spec.ios.deployment_target = '14.1'
 
